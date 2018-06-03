@@ -1,2 +1,2 @@
 # timefest
-[github pages link](deanlc.github.io/timefest/)
+[github pages link](http://deanlc.github.io/timefest/)
